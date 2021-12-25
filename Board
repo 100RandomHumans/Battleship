@@ -1,1 +1,25 @@
+package com.christopher.differentfromseries;
+
+public class Board {
+    public String[][] shipsOne = new String[10][10];
+    public String[][] attackOne= new String[10][10];
+
+    public String[][] shipsTwo = new String[10][10];
+    public String[][] attackTwo= new String[10][10];
+
+    // O X ! 5 4 3 3 2
+    // O X !
+
+    public Board(int X5Cr, int Y5Cr, int direc5, ) {
+
+
+
+
+    }
+
+
+
+
+
+}
 
